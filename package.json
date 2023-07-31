@@ -1,0 +1,11 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "First node project",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Scott",
+  "license": "ISC"
+}
